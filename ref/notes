@@ -1,0 +1,7 @@
+|=====|
+|NOTES|
+|=====|
+
+For FASM, you need to initialize the allocated memory first. This looks like this:
+
+ARM 65536 ; Allocate 64KB of RAM

@@ -1,0 +1,4 @@
+; Custom instruction: Allocate RAM (ARM)
+; Syntax: ARM <total_ram>
+; Example: ARM 65536 ; Allocate 64KB of RAM
+; MAKE SURE IT IS IN bytes FORMAT!
